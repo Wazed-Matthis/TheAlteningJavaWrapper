@@ -9,7 +9,7 @@ Api.setup();
 at the start of your program.
 
 and to Generate an Account you have to call 
-```Java
+```java
 Generator.getInstance().generate("<YourApiToken>");
 ``` 
 this call returns ann account you browse through the code it is semi well documented
