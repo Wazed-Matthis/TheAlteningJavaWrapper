@@ -17,7 +17,7 @@ this call returns an account you browse through the code it is semi well documen
 # Info
 Note that you still have to change your Auth service and your session service in minecraft while logging into the account!
 services: 
-```javascript
+```java
 private static final String ALTENING_AUTH_SERVER = "http://authserver.thealtening.com/"
-private static final String ALTENING_SESSION_SERVER "http://sessionserver.thealtening.com/"
+private static final String ALTENING_SESSION_SERVER = "http://sessionserver.thealtening.com/"
 ```
