@@ -9,7 +9,7 @@ public class TestMain {
     public static void main(String[] args) {
         Api.init();
         try {
-            Account account = Generator.getInstance().generate("api-315a-db84-8d1a");
+            Account account = Generator.getInstance().generate("<token>");
             System.out.println(account.getUsername() + "\n" +  account.getPassword() + "\n" +  account.getToken());
             account.getInfo().forEach((e,e1)-> System.out.println(e + ": " + e1));
         } catch (UnauthorizedException e) {
@@ -18,5 +18,4 @@ public class TestMain {
             System.err.println("404");
         }
     }
-
 }
