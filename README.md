@@ -4,7 +4,7 @@ A Wrapper for the TheAltening Api
 # Usage
 Add the jar as a library, then you have to call 
 ```javascript
-Api.setup();
+Api.init();
 ``` 
 at the start of your program.
 
