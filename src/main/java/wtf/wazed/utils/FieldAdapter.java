@@ -1,4 +1,4 @@
-package de.wazed.wrapper.utils;
+package wtf.wazed.utils;
 
 import java.lang.invoke.MethodHandle;
 import java.lang.invoke.MethodHandles;

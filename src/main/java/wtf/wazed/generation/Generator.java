@@ -1,13 +1,11 @@
-package de.wazed.wrapper.generation;
+package wtf.wazed.generation;
 
-import de.wazed.wrapper.utils.WebUtil;
-import de.wazed.wrapper.utils.exceptions.NotFoundException;
-import de.wazed.wrapper.utils.exceptions.UnauthorizedException;
+import wtf.wazed.utils.WebUtil;
+import wtf.wazed.utils.exceptions.NotFoundException;
+import wtf.wazed.utils.exceptions.UnauthorizedException;
 import org.json.JSONObject;
-import org.json.JSONTokener;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 

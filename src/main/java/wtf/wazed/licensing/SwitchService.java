@@ -1,6 +1,6 @@
-package de.wazed.wrapper.licensing;
+package wtf.wazed.licensing;
 
-import de.wazed.wrapper.utils.FieldAdapter;
+import wtf.wazed.utils.FieldAdapter;
 
 import java.net.URL;
 

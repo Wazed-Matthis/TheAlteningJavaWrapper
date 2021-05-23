@@ -1,4 +1,4 @@
-package de.wazed.wrapper.utils.exceptions;
+package wtf.wazed.utils.exceptions;
 
 public class NotFoundException extends Exception{
 

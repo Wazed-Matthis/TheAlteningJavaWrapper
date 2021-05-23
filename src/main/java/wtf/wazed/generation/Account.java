@@ -1,4 +1,4 @@
-package de.wazed.wrapper.generation;
+package wtf.wazed.generation;
 
 import java.util.HashMap;
 import java.util.List;

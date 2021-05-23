@@ -1,8 +1,8 @@
-import de.wazed.wrapper.Api;
-import de.wazed.wrapper.generation.Account;
-import de.wazed.wrapper.generation.Generator;
-import de.wazed.wrapper.utils.exceptions.NotFoundException;
-import de.wazed.wrapper.utils.exceptions.UnauthorizedException;
+import wtf.wazed.Api;
+import wtf.wazed.generation.Account;
+import wtf.wazed.generation.Generator;
+import wtf.wazed.utils.exceptions.NotFoundException;
+import wtf.wazed.utils.exceptions.UnauthorizedException;
 
 public class TestMain {
 
